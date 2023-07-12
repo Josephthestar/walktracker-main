@@ -1,0 +1,31 @@
+body {
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/358/577/313/spiral-staircase-stairs-bw-hd-black-and-white-spiral-stairs-wallpaper-preview.jpg');
+  background-size: center;
+  background-image: no-repeat;
+  font-family: 'Times New Roman', Times, serif;
+	display: flex;
+	/* min-height: 0; */
+	flex-direction: column;
+  justify-content: center;
+  color:#fd00f9
+}
+
+.nav-wrapper {
+  background-color: #17b694; 
+}
+  main {
+	flex: 1 0 auto;
+  }
+  
+  footer.page-footer {
+	padding-top: 0;
+	text-align: right;
+
+}
+h1 {
+  color: rgb(255, 255, 0);
+}
+
+p {
+  color: rgb(217, 17, 17);
+}
